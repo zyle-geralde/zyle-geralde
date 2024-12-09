@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyle-geralde&label=Profile%20views&color=0e75b6&style=flat" alt="zyle-geralde" /> </p>
 
-- 🌱 I’m currently learning **Web sockets, React, and Laravel**
+- 🌱 I’m currently learning **React, and Django**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
