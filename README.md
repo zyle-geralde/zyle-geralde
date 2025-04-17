@@ -1,4 +1,5 @@
 [![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Zyle Geralde</h1>
 <h3 align="center">A computer science student aspiring to be a Seasoned Developer</h3>
 <img align="right" alt="Coding" width = "400" src = "https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
@@ -19,7 +20,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zyle-geralde&show_icons=true&locale=en&layout=compact" alt="zyle-geralde" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zyle-geralde&show_icons=true&locale=en" alt="zyle-geralde" /></p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zyle-geralde)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=zyle-geralde&show_icons=true" alt="Zyle's GitHub Stats" />
+</a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zyle-geralde&" alt="zyle-geralde" /></p>
