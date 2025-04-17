@@ -21,4 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zyle-geralde&show_icons=true&locale=en&layout=compact" alt="zyle-geralde" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zyle-geralde&show_icons=true&locale=en" alt="zyle-geralde" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zyle-geralde)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zyle-geralde&" alt="zyle-geralde" /></p>
